@@ -80,7 +80,7 @@ Wave Transform:  Hiệu ứng sóng bằng phép biến đổi bản đồ pixel
 
 ## Thư mục
 ├── nui.jpg # Ảnh núi
-├── thuyn.jpg # Ảnh thuyền
+├── thuyen.jpg # Ảnh thuyền
 ├── pagoda.jpg # Ảnh ngôi chùa
 ├── output_result.jpg # Kết quả bài 5
 ├── mountain_boat_mirror.jpg # Kết quả bài 3
