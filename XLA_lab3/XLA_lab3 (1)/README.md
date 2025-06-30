@@ -15,8 +15,8 @@
 #### Các bước làm :
 - Chọn hai ảnh: đu đủ và dưa hấu
 - Đổi màu:
-  - Đu đủ: từ đỏ sang xanh lá
-  - Dưa hấu: từ vàng → tím
+    Đu đủ: từ đỏ sang xanh lá
+    Dưa hấu: từ vàng sang tím
 - Ghép hai quả lên một nền trong suốt (alpha channel)
 - Lưu kết quả dưới dạng ảnh `.png` có alpha: `fruits_gradient.png`
 
